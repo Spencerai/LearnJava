@@ -9,6 +9,7 @@ public class Variable {
         int  y = a*x + b*x*x + c*x*x*x;
         /**
          * 关键字：public,class,static,void, int
+         * 类名要和文件名保持一致
          */
 
         System.out.println(y);
